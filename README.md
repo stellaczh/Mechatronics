@@ -21,7 +21,7 @@ Mechatronics homework documentation
 ![week5pic2](https://github.com/stellaczh/Mechatronics/blob/master/week5/week5pic2.GIF)
 ![week5pic3](https://github.com/stellaczh/Mechatronics/blob/master/week5/week5pic3.png)
 
-code:
+cod;
 void setup() {
   // put your setup code here, to run once:
 pinMode(13, OUTPUT);
@@ -137,6 +137,51 @@ digitalWrite(7, LOW);
 digitalWrite(6, LOW);
 digitalWrite(5, LOW);
 digitalWrite(4, LOW);
+};
+
+# week 6
+![week6pic1](https://github.com/stellaczh/Mechatronics/blob/master/week5/week6pic1.png)
+![week6pic2](https://github.com/stellaczh/Mechatronics/blob/master/week5/week6pic2.GIF)
+![week6pic3](https://github.com/stellaczh/Mechatronics/blob/master/week5/week6pic3.GIF)
+
+code;
+const int analogInPin = A0;  // Analog input pin that the potentiometer is attached to
+const int analogOutPin = 3; // Analog output pin that the LED is attached to
+
+int sensorValue = 0;        // value read from the pot
+int outputValue = 0;        // value output to the PWM (analog out)
+
+void setup() {
+  // initialize serial communications at 9600 bps:
+  Serial.begin(9600);
+  // declare pin 3 to be an output:
+  pinMode(analogOutPin, OUTPUT);
 }
 
+void loop() {
+  // read the analog in value:
+  sensorValue = analogRead(analogInPin);
+  // map it to the range of the analog out:
+  outputValue = map(sensorValue, 0, 1023, 0, 255);
+  // change the analog out value:
+  //analogWrite(analogOutPin, outputValue);
+
+  // print the results to the Serial Monitor:
+  Serial.print("sensor = ");
+  Serial.print(sensorValue);
+  Serial.print("\t output = ");
+  Serial.println(outputValue);
+
+   if (sensorValue <= 600) {
+    analogWrite(analogOutPin,0);
+  }
+
+  if (sensorValue >= 600) {
+    analogWrite(analogOutPin, outputValue*10);
+  }
+
+  // wait 2 milliseconds before the next loop for the analog-to-digital
+  // converter to settle after the last reading:
+  delay(2);
+};
 
