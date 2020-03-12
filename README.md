@@ -6,6 +6,10 @@ Mechatronics homework documentation
 ![week2pic2](https://github.com/stellaczh/Mechatronics/blob/master/week2/week2pic2.GIF)
 ![week2pic3](https://github.com/stellaczh/Mechatronics/blob/master/week2/week2pic3.GIF)
 
+# week3
+![week3pic1](https://github.com/stellaczh/Mechatronics/blob/master/week3/week3pic1.png)
+![week3pic2](https://github.com/stellaczh/Mechatronics/blob/master/week3/week3pic2.png)
+
 # week 4
 ![week4pic1](https://github.com/stellaczh/Mechatronics/blob/master/week4/week4pic1.png)
 ![week4pic2](https://github.com/stellaczh/Mechatronics/blob/master/week4/week4pic2.png)
