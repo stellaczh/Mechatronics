@@ -2,6 +2,6 @@
 Mechatronics homework documentation
 
 # week 5
-![IMG_8839](https://github.com/stellaczh/Mechatronics/blob/master/MechatronicsWeek5/IMG_8839.png)
-![MorseCodeLed](/Mechatronicsweek5/IMG_8842.jpeg)
-![2020-03-12%2005:39:41%20%2B0000](https://github.com/stellaczh/Mechatronics/blob/master/MechatronicsWeek5/2020-03-12%2005:39:41%20%2B0000.GIF)
+![week5pic1](https://github.com/stellaczh/Mechatronics/blob/master/week5/week5pic1.png)
+![week5pic2](https://github.com/stellaczh/Mechatronics/blob/master/week5/week5pic2.GIF)
+![week5pic3](https://github.com/stellaczh/Mechatronics/blob/master/week5/week5pic3.jpeg)
