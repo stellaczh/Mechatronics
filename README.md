@@ -137,12 +137,12 @@ digitalWrite(7, LOW);
 digitalWrite(6, LOW);
 digitalWrite(5, LOW);
 digitalWrite(4, LOW);
-};
+}
 
 # week 6
-![week6pic1](https://github.com/stellaczh/Mechatronics/blob/master/week5/week6pic1.png)
-![week6pic2](https://github.com/stellaczh/Mechatronics/blob/master/week5/week6pic2.GIF)
-![week6pic3](https://github.com/stellaczh/Mechatronics/blob/master/week5/week6pic3.GIF)
+![week6pic1](https://github.com/stellaczh/Mechatronics/blob/master/week6/week6pic1.png)
+![week6pic2](https://github.com/stellaczh/Mechatronics/blob/master/week6/week6pic2.GIF)
+![week6pic3](https://github.com/stellaczh/Mechatronics/blob/master/week6/week6pic3.GIF)
 
 code;
 const int analogInPin = A0;  // Analog input pin that the potentiometer is attached to
@@ -183,5 +183,5 @@ void loop() {
   // wait 2 milliseconds before the next loop for the analog-to-digital
   // converter to settle after the last reading:
   delay(2);
-};
+}
 
