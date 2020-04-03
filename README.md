@@ -21,7 +21,7 @@
 ![week5pic2](https://github.com/stellaczh/Mechatronics/blob/master/week5/week5pic2.GIF)
 ![week5pic3](https://github.com/stellaczh/Mechatronics/blob/master/week5/week5pic3.png)
 
-## cod;
+## code
 void setup() {
   // put your setup code here, to run once:
 pinMode(13, OUTPUT);
@@ -144,7 +144,7 @@ digitalWrite(4, LOW);
 ![week6pic2](https://github.com/stellaczh/Mechatronics/blob/master/week6/week6pic2.GIF)
 ![week6pic3](https://github.com/stellaczh/Mechatronics/blob/master/week6/week6pic3.GIF)
 
-## code;
+## code
 const int analogInPin = A0;  // Analog input pin that the potentiometer is attached to
 const int analogOutPin = 3; // Analog output pin that the LED is attached to
 
@@ -187,7 +187,7 @@ void loop() {
 
 
 # week 7-8
-For this electrocar midterm project, I teamed up with Rio to make a electrocar. Rio put the car together and tested the motor, I coded for obstacle avoidance and remote control.
+For this electrocar midterm project, I teamed up with Rio to make a mini electrocar. Rio put the car together and tested the motor, I coded for obstacle avoidance and remote control.
 ![week7pic1](https://github.com/stellaczh/Mechatronics/blob/master/week7/week7pic1.png)
 ![week7pic2](https://github.com/stellaczh/Mechatronics/blob/master/week7/week7pic2.JPG)
 ![week7pic3](https://github.com/stellaczh/Mechatronics/blob/master/week7/week7pic3.JPG)
