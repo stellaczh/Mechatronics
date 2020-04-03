@@ -185,3 +185,15 @@ void loop() {
   delay(2);
 }
 
+
+# week 7-8
+For this electrocar midterm project, I teamed up with Rio to make a electrocar. Rio put the car together and tested the motor, I coded for obstacle avoidance and remote control.
+![week7pic1](https://github.com/stellaczh/Mechatronics/blob/master/week7/week7pic1.png)
+![week7pic2](https://github.com/stellaczh/Mechatronics/blob/master/week7/week7pic2.JPG)
+![week7pic3](https://github.com/stellaczh/Mechatronics/blob/master/week7/week7pic3.JPG)
+
+Obstacle avoidance demo:
+![week7pic4](https://github.com/stellaczh/Mechatronics/blob/master/week7/week7pic4.GIF)
+
+Remote control demo:
+![week7pic5](https://github.com/stellaczh/Mechatronics/blob/master/week7/week7pic5.GIF)
