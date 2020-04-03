@@ -198,5 +198,5 @@ For this electrocar midterm project, I teamed up with Rio to make a electrocar. 
 ## Remote control demo
 ![week7pic5](https://github.com/stellaczh/Mechatronics/blob/master/week7/week7pic5.gif)
 
-Please visit the YOUTUBE link attached below for explaination of my codes!
+Click this YOUTUBE link to hear me explain my codes!
 https://youtu.be/UaS7tY2MX4s
