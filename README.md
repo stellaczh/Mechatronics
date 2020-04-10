@@ -200,3 +200,11 @@ For this electrocar midterm project, I teamed up with Rio to make a mini electro
 
 Click this YOUTUBE link to hear me explain my codes!
 https://youtu.be/UaS7tY2MX4s
+
+# week 11
+This is a little banyan tree. 
+![week11pic1](https://github.com/stellaczh/Mechatronics/blob/master/week11/week11pic1.JPG)
+We always forgot to give it enought water to keep the soil moistful... During the winter when the heat is on, the environment becomes too dry for our little tree to grow, and a lot of leaves starting to fall down. So I wanna to design a automatic plant watering system.
+## A rough sketch
+![week11pic2](https://github.com/stellaczh/Mechatronics/blob/master/week11/week11pic2.png)
+Info about water level sensor: https://www.tutorialspoint.com/arduino/arduino_water_detector_sensor.htm
