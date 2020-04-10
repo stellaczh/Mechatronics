@@ -203,7 +203,7 @@ https://youtu.be/UaS7tY2MX4s
 
 # week 11
 This is a little banyan tree. 
-![week11pic1](https://github.com/stellaczh/Mechatronics/blob/master/week11/week11pic1.JPG)
+![week11pic1](https://github.com/stellaczh/Mechatronics/blob/master/week11/week11pic1.png)
 We always forgot to give it enought water to keep the soil moistful... During the winter when the heat is on, the environment becomes too dry for our little tree to grow, and a lot of leaves starting to fall down. So I wanna to design a automatic plant watering system.
 ## A rough sketch
 ![week11pic2](https://github.com/stellaczh/Mechatronics/blob/master/week11/week11pic2.JPG)
