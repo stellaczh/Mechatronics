@@ -206,6 +206,6 @@ This is a little banyan tree.
 ![week11pic1](https://github.com/stellaczh/Mechatronics/blob/master/week11/week11pic1.png)
 We always forgot to give it enought water to keep the soil moistful... During the winter when the heat is on, the environment becomes too dry for our little tree to grow, and a lot of leaves starting to fall down. So I wanna to design a automatic plant watering system.
 ## A rough sketch
-![week11pic2](https://github.com/stellaczh/Mechatronics/blob/master/week11/week11pic2.JPG)
+![week11pic4](https://github.com/stellaczh/Mechatronics/blob/master/week11/week11pic4.JPG)
 ![week11pic3](https://github.com/stellaczh/Mechatronics/blob/master/week11/week11pic3.PNG)
 Info about water level sensor: https://www.tutorialspoint.com/arduino/arduino_water_detector_sensor.htm
