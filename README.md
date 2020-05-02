@@ -227,3 +227,4 @@ Info about water level sensor: https://www.tutorialspoint.com/arduino/arduino_wa
 ![sys6](https://github.com/stellaczh/Mechatronics/blob/master/week12/sys6.png)
 ![sys7](https://github.com/stellaczh/Mechatronics/blob/master/week12/sys7.png)
 ## Check the link below for the video explaining more detail!
+https://youtu.be/JPeakUBjpHA
