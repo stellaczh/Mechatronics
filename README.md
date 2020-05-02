@@ -209,3 +209,31 @@ We always forgot to give it enought water to keep the soil moistful... During th
 ![week11pic4](https://github.com/stellaczh/Mechatronics/blob/master/week11/week11pic4.JPG)
 ![week11pic3](https://github.com/stellaczh/Mechatronics/blob/master/week11/week11pic3.PNG)
 Info about water level sensor: https://www.tutorialspoint.com/arduino/arduino_water_detector_sensor.htm
+
+# week 12-14
+## Final Project: ECO-WALL
+Inspiration
+![week12pic1](https://github.com/stellaczh/Mechatronics/blob/master/week12/week12pic1.JPG)
+Ideation
+![week12pic2](https://github.com/stellaczh/Mechatronics/blob/master/week12/week12pic2.JPG)
+Logic
+![week12pic3.1](https://github.com/stellaczh/Mechatronics/blob/master/week12/week12pic3.1.png)
+Wiring
+![week12pic3](https://github.com/stellaczh/Mechatronics/blob/master/week12/week12pic3.PNG)
+Soldering Nano
+![week12pic4](https://github.com/stellaczh/Mechatronics/blob/master/week12/week12pic4.png)
+Test code
+![week12pic5](https://github.com/stellaczh/Mechatronics/blob/master/week12/week12pic5.JPG)
+Water tank design
+![sys1](https://github.com/stellaczh/Mechatronics/blob/master/week12/sys1.png)
+Valve mechanism
+![sys2](https://github.com/stellaczh/Mechatronics/blob/master/week12/sys2.png)
+Electronics placement
+![sys3](https://github.com/stellaczh/Mechatronics/blob/master/week12/sys3.png)
+Planter
+![sys4](https://github.com/stellaczh/Mechatronics/blob/master/week12/sys4.png)
+![sys5](https://github.com/stellaczh/Mechatronics/blob/master/week12/sys5.png)
+![sys6](https://github.com/stellaczh/Mechatronics/blob/master/week12/sys6.png)
+Rendering
+![sys7](https://github.com/stellaczh/Mechatronics/blob/master/week12/sys7.JPG)
+
